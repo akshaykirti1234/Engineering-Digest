@@ -1,0 +1,12 @@
+package tech.csm;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Start");
+
+		Thread thread = new Thread();
+		thread.run();
+
+		System.out.println("Bye");
+	}
+}

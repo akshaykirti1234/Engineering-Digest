@@ -1,0 +1,11 @@
+package tech.csm;
+
+public class FrequencyOfNumbers {
+	public static void main(String[] args) {
+		int num = 232112;
+		int x = num;
+		while (x != 0) {
+			System.out.println(x);
+		}
+	}
+}

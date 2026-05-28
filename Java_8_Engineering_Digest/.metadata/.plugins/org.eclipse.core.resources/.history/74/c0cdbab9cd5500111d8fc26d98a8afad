@@ -1,0 +1,11 @@
+package tech.csm;
+
+public class MyClass implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

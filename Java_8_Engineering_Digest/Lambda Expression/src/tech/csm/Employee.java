@@ -1,0 +1,6 @@
+package tech.csm;
+
+@FunctionalInterface
+public interface Employee {
+	void getName();
+}

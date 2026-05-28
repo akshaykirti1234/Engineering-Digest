@@ -1,0 +1,8 @@
+package tech.csm;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("In main Class.");
+		Employee emp = () -> System.out.println("Sofrware Engineer.");
+	}
+}

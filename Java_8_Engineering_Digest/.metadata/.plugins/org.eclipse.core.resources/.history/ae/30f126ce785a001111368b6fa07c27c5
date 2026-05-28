@@ -1,0 +1,8 @@
+package tech.csm;
+
+public class FunctionChaining {
+	public static void main(String[] args) {
+		Function<Integer, Integer> function1 = x -> 2 * x;
+		Function<Integer, Integer> function1 = x -> 2 * x;
+	}
+}

@@ -1,0 +1,13 @@
+package tech.csm;
+
+public class Main {
+	public static void main(String[] args) {
+
+		Employee obj = new SoftwareEngineer();
+		obj.getName();
+		
+		// java 8 feature.
+		Employee emp = () -> System.out.println("Sofrware Engineer.");
+		emp.getName();
+	}
+}

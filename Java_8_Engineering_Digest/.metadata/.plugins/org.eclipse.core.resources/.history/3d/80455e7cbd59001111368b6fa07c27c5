@@ -1,0 +1,23 @@
+package tech.csm;
+
+import java.util.HashMap;
+
+public class FrequencyOfNumbers {
+	public static void main(String[] args) {
+		int num = 23223;
+		int i = num;
+		int j = num;
+		int digit;
+		int a;
+		HashMap<Integer, Integer> hashMap = new HashMap<>();
+		while (i != 0) {
+			digit = i % 10;
+				while(j != 0) {
+					a = j%10;
+					j = j/10;
+				}
+			i = i / 10;
+		}
+		System.out.println(hashMap);
+	}
+}

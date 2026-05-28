@@ -1,0 +1,28 @@
+package tech.csm;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+	public static void main(String[] args) {
+		List<Integer> list = new ArrayList<>();
+		list.add(2);
+		list.add(4);
+		list.add(5);
+		list.add(8);
+		list.add(1);
+		list.add(3);
+
+//		Collections.sort(list);
+
+		for (int i = 0; i < list.size(); i++) {
+			for (int j = 1; i <= list.size(); j++) {
+				if (list.get(i) < list.get(j)) {
+					list.set(j, list.get(i));
+				}
+			}
+		}
+
+		System.out.println(list);
+	}
+}

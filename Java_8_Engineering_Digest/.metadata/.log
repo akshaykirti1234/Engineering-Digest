@@ -1,0 +1,79 @@
+!SESSION 2026-05-26 10:03:55.635 -----------------------------------------------
+eclipse.buildId=4.34.0.202502032007
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file D:\study material\Engineering Digest\Java_8_Engineering_Digest\.metadata\.bak_0.log
+Created Time: 2026-05-27 15:48:57.256
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-27 15:48:57.256
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/FrequencyOfElemets.java
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-05-28 10:19:39.447
+!MESSAGE Classpath changed for project: Pattern
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-05-28 10:22:05.138
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.732
+!MESSAGE [Info] Document is null for editor: Test.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.733
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/FrequencyOfElemets.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.748
+!MESSAGE [Info] Document is null for editor: FrequencyOfNumbers.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.750
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/FrequencyOfNumbers.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.803
+!MESSAGE [Info] Document is null for editor: Right_Triangle.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 10:34:04.804
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Pattern/src/tech/csm/Right_Triangle.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:39:12.343
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:39:12.346
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:39:31.592
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:39:31.593
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Pattern/src/tech/csm/Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:40:06.220
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 12:40:06.220
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 15:06:20.337
+!MESSAGE [Info] Document is null for editor: Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 15:06:20.338
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/Main.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 15:48:19.640
+!MESSAGE [Info] Document is null for editor: FunctionChaining.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-05-28 15:48:19.641
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/study%20material/Engineering%20Digest/Java_8_Engineering_Digest/Function_In_java8/src/tech/csm/FunctionChaining.java
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-05-28 15:48:48.077
+!MESSAGE Classpath changed for project: Consumer_Fucntion

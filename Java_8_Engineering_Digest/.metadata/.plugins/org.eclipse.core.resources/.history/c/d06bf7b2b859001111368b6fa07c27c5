@@ -1,0 +1,14 @@
+package tech.csm;
+
+public class FrequencyOfNumbers {
+	public static void main(String[] args) {
+		int num = 23223;
+		int x = num;
+		int digit;
+		while (x != 0) {
+			digit = x % 10;
+			System.out.println(digit);
+			x = x / 10;
+		}
+	}
+}

@@ -1,0 +1,15 @@
+package tech.csm;
+
+@FunctionalInterface
+public interface MyInterface {
+	
+	public void sayHello();	
+	
+	default void sayBye() {
+		System.out.println("Bye");
+	}
+	
+	public static void sayOk() {
+		System.out.println("Ok");
+	}
+}
