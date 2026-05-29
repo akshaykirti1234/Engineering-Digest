@@ -1,8 +1,0 @@
-package tech.csm;
-
-public class Main {
-	public static void main(String[] args) {
-//		Employee emp = () -> System.out.println("Sofrware Engineer.");
-//		emp.getName();
-	}
-}
