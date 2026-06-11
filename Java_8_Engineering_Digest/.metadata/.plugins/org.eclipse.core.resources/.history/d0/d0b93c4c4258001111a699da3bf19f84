@@ -1,9 +1,0 @@
-package tech.csm;
-
-import java.util.function.Predicate;
-
-public class Example03 {
-	public static void main(String[] args) {
-		Predicate<String> nameStartswithA = (name) -> (name.charAt(0) == "A");
-	}
-}

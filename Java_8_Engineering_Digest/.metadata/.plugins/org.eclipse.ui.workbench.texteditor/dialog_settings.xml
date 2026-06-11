@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
-		<item key="selection" value=""/>
+		<item key="selection" value="println"/>
 		<list key="findhistory">
+			<item value="println"/>
+			<item value="out"/>
 			<item value=""/>
 		</list>
 	</section>

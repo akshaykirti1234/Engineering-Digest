@@ -5,10 +5,22 @@
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="tech.csm.Main.Student"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.util.function.BiPredicate"/>
+    <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.function.UnaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="tech.csm.Test"/>
+    <fullyQualifiedTypeName name="java.text.CollationElementIterator"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
